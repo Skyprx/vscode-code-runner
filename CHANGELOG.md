@@ -1,3 +1,18 @@
+### 0.11.5 (2021-07-10)
+* [#776](https://github.com/formulahendry/vscode-code-runner/pull/776): Add stop button in editor title bar
+
+### 0.11.4 (2021-05-14)
+* [#783](https://github.com/formulahendry/vscode-code-runner/issues/783): Not detect shell on Windows correctly in VS Code 1.56
+
+### 0.11.3 (2021-03-11)
+* Adopt 'run' menu in editor title
+
+### 0.11.2 (2021-01-05)
+* Activate extension after VS Code starts up
+
+### 0.11.1 (2020-10-11)
+* Add support for Fortran
+
 ### 0.11.0 (2020-07-07)
 * Integrate with new Python Interpreter Path API V2 of Python extension
 * Add support for Less
